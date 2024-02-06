@@ -28,6 +28,12 @@ pip install -r requirements.txt
 2. 运行主脚本以开始处理：
 python main_script.py
 
+3.目录
+c:\zbq\
+pdf和团队excel都需要放在c:\zbq\目录
+
+4.团队excel表格
+护照和房间必须在表格中的第一行，任意列都可以
 
 注意：请根据实际路径和文件名替换`main_script.py`，确保Excel文件和PDF文件的路径正确设置。
 
@@ -57,6 +63,12 @@ pip install -r requirements.txt
 
 2. Execute the main script to start processing:
 python main_script.py
+
+3. Directory
+c:\zbq\ Both PDF and team Excel files should be placed in the c:\zbq\ directory.
+
+4. Team Excel Spreadsheet
+Passport and room must be in the first row of the spreadsheet, in any column.（chinese only）
 
 Note: Replace `main_script.py` with the actual path and filename, ensuring the paths to Excel and PDF files are correctly set.
 这个README的框架为项目提供了一个清晰的介绍，包括项目的目的、主要功能、以及如何运行项目的基本指南。您可以根据项目的具体情况调整内容。
